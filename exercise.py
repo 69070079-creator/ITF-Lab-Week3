@@ -1,2 +1,2 @@
-print("Thanasorn Nuchpramool")
-print("69070079")
+print("Kwanchai Suwanwijit")
+print("69070017")
